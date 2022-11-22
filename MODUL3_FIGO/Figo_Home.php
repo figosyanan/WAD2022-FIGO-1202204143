@@ -12,7 +12,7 @@
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav  gap-2">
                     <a class="nav-link active" aria-current="page" href="Figo_Home.php">Home</a>
-                    <a class="nav-link" href="Figo_AddItem.php">MyCar</a>
+                    <a class="nav-link" href="Figo_MyItem.php">MyCar</a>
                 </div>
             </div>
         </div>
@@ -24,7 +24,7 @@
         <div class="col">
             <h1 style="text-align:left">Selamat Datang di Show Room FIGO</h1>
             <p class="fw-light" style="text-align:left"> At lacus vitae nulla sagittis scelerisque nisl. Pellentesque duis cursus vestibulum, facilisi ac, sed faucibus.<p>
-            <a type="submit" href="Figo_AddItem.php" class="btn btn-primary" nama="BookNow">MyCar</a>
+            <a type="submit" href="Figo_MyItem.php" class="btn btn-primary" nama="BookNow">MyCar</a>
             <div class="d-flex justify-content-start">
                 <div class="row">
                     <div class="col">

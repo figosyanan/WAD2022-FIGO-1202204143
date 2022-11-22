@@ -17,6 +17,7 @@
                     <a class="nav-link text-light" href="Figo_Home.PHP">Home</a>
                     <a class="nav-link text-light" href="Figo_AddItem.php">MyCar</a>
                 </div>
+                <a href="Figo_AddItem.php" class="btn me-md-2" style="margin-left: 1000px; width: 110px; background-color: white; color:blue; font-weight: 600;">Add Car</a>
             </div>
         </div>
     </nav>
@@ -63,7 +64,7 @@
                 <div class="card" style="width: 30rem;">
                     <div class="row">
                         <div class="col">
-                            <img src="fortuner.png" class="card-img-top" alt="mobil3" />
+                            <img src="fortuner.png" class="card-img-top" alt="fortuner" />
                             <div class="card-body">
                                 <h5 class="card-title">Fortuner</h5>
                                 <p class="card-text">Toyota Fortuner tersedia dalam pilihan mesin 10 Diesel dan 2 Petrol di Indonesia SUV baru dari Toyota hadir...</p>
